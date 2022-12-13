@@ -1,9 +1,3 @@
-lphabet.c CODE
-
-
-
-
-
 #include "main.h"
 
 
