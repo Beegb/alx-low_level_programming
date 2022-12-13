@@ -1,4 +1,4 @@
-nclude <unistd.h>
+#include <unistd.h>
 
 #include "main.h"
 
@@ -18,7 +18,7 @@ int main(void)
 
 {
 
-		char word[9] = "main.h";
+		char word[9] = "main";
 
 			int i;
 
